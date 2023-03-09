@@ -1,6 +1,6 @@
 {
 	"name":"Anushma",
-	"short_name":"Anu",
+	"short_name":"Anushma",
 	"start_url":"index.html",
 	"display":"standalone",
 	"background_color":"#5900b3",
@@ -9,9 +9,9 @@
 	"description":"First One",
 	"icons":[
 	{
-	"src":"images/hw.jpg",					
+	"src":"images/logo.png",					
 	"sizes":"192x192",
-	"type":"image/jpg"
+	"type":"image/png"
 	},
 	{
 	"src":"images/icon-512x512.png",
